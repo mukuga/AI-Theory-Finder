@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+.venv/
+venv/
+env/
+
+.env
+.DS_Store
+Thumbs.db
+
+AI_Theory_Finder/output/*.md
+!AI_Theory_Finder/output/.gitkeep
+
